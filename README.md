@@ -1,0 +1,2 @@
+# smiths
+GitHub Pages
